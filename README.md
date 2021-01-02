@@ -1,3 +1,3 @@
 # Ren-Py
 
-Place for sharing things I've greated using Ren'Py.
+Files from my visual novels, assorted testing, and general messing around with Ren'Py.
